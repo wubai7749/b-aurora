@@ -2,7 +2,9 @@
 
 ## 前言
 
-- 开源不易，希望大家star支持一下
+-forked from linhaojun857/aurora
+-来源于linhaojun857/aurora
+
 
 ## 在线地址
 
